@@ -50,6 +50,12 @@ body {
     text-align: right;
 }
 
+#mastheadl {
+    background-color: var(--body-color);
+    padding: 1em;
+    text-align: left;
+}
+
 .aside-holder .box p:last-child {
     padding-bottom: 1.6em;
     border-bottom: .75em solid var(--body-color);
