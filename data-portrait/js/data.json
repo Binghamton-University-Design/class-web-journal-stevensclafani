@@ -1,0 +1,222 @@
+{
+"key" :
+  { 
+    "my skin type is:": {
+      "x" : 0,
+      "y" : 0,
+      "dry" : "dryskin.png",
+      "oily" : "oilyskin.png",
+      "combination" : "combination.png",
+      "normal" : "normal.png",
+      "is_text" : true 
+    },
+    "i struggle with acne:": {
+      "x" : 0,
+      "y" : 0,
+      "rarely" : "neveracne.png",
+      "sometimes" : "sometimesacne.png",
+      "often" : "oftenacne.png",
+      "is_text" : true 
+    },
+	"i wash my face:": {
+      "x" : 0,
+      "y" : 0,
+      "a few times a week" : "fewtimesaweek.png",
+      "once a day" : "onceaday.png",
+      "twice a day" : "twiceaday.png",
+      "is_text" : true
+	},
+    "i wear sunscreen daily:": {
+      "x" : 0,
+      "y" : 0,
+      "yes" : "sunscreen.png",
+      "no" : "burn.png",
+      "is_text" : true 
+    },
+    "do you struggle from the following?": {
+      "x" : 0,
+      "y" : 0,
+      "redness" : "redness.png",
+      "uneven skin tone" : "uneven.png",
+	  "large pores" : "pores.png",
+	  "dull skin" : "dull.png",
+      "is_text" : true
+    },
+    "what is the most important factor in your skincare products?": {
+      "x" : 0,
+      "y" : 0,
+      "smell/texture" : "smell.png",
+      "price" : "price.png",
+	  "ingredients" : "ingredients.png",
+	  "cruelty free" : "cruelty.png",
+      "is_text" : true
+    },
+    "i believe my skincare routine is sufficient:": {
+      "x" : 0,
+      "y" : 0,
+      "disagree" : "disagree.png",
+      "neutral" : "neutral.png",
+	  "agree" : "agree.png",
+      "is_text" : true
+    },
+    "i wear makeup:": {
+      "x" : 0,
+      "y" : 0,
+      "yes" : "makeup.png",
+      "no" : "null" ,
+      "is_text" : true
+
+    },
+"data" : [
+    {
+    "my skin type is": "combination",
+    "i struggle with acne:": "rarely",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "uneven skin tone",
+    "what is the most important factor in your skincare products?": "price",
+    "i believe my skincare routine is sufficient": "neutral",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "dry",
+    "i struggle with acne:": "rarely",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "uneven skin tone;redness;large pores;dull skin",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "agree",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "combination",
+    "i struggle with acne:": "rarely",
+    "i wash my face": "a few times a week",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "large pores",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "neutral",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "combination",
+    "i struggle with acne:": "often",
+    "i wash my face": "twice a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "uneven skin tone;redness;large pores;dull skin",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "neutral",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "dry",
+    "i struggle with acne:": "sometimes",
+    "i wash my face": "twice a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "uneven skin tone;redness;large pores",
+    "what is the most important factor in your skincare products?": "smell/texture",
+    "i believe my skincare routine is sufficient": "neutral",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "normal",
+    "i struggle with acne:": "sometimes",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "large pores",
+    "what is the most important factor in your skincare products?": "smell/texture",
+    "i believe my skincare routine is sufficient": "agree",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "dry",
+    "i struggle with acne:": "sometimes",
+    "i wash my face": "twice a day",
+    "i wear sunscreen daily": "yes",
+    "do you struggle from the following?": "fine lines;redness",
+    "what is the most important factor in your skincare products?": "price",
+    "i believe my skincare routine is sufficient": "agree",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "oily",
+    "i struggle with acne:": "sometimes",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "agree",
+    "i wear makeup": "no"
+  },
+  {
+    "my skin type is": "combination",
+    "i struggle with acne:": "rarely",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "uneven skin tone;large pores",
+    "what is the most important factor in your skincare products?": "if it’s cruelty free",
+    "i believe my skincare routine is sufficient": "agree",
+    "i wear makeup": "no"
+  },
+  {
+    "my skin type is": "combination",
+    "i struggle with acne:": "rarely",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "",
+    "what is the most important factor in your skincare products?": "price",
+    "i believe my skincare routine is sufficient": "disagree",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "oily",
+    "i struggle with acne:": "sometimes",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "large pores",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "disagree",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "normal",
+    "i struggle with acne:": "sometimes",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "yes",
+    "do you struggle from the following?": "uneven skin tone",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "agree",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "dry",
+    "i struggle with acne:": "sometimes",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "redness;large pores",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "neutral",
+    "i wear makeup": "yes"
+  },
+  {
+    "my skin type is": "oily",
+    "i struggle with acne:": "never",
+    "i wash my face": "twice a day",
+    "i wear sunscreen daily": "yes",
+    "do you struggle from the following?": "uneven skin tone;large pores",
+    "what is the most important factor in your skincare products?": "smell/texture",
+    "i believe my skincare routine is sufficient": "agree",
+    "i wear makeup": "no"
+  },
+  {
+    "my skin type is": "combination",
+    "i struggle with acne:": "never",
+    "i wash my face": "once a day",
+    "i wear sunscreen daily": "no",
+    "do you struggle from the following?": "redness;dull skin",
+    "what is the most important factor in your skincare products?": "ingredients",
+    "i believe my skincare routine is sufficient": "disagree",
+    "i wear makeup": "yes"
+  }
+]
+}
